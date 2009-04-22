@@ -1,0 +1,16 @@
+$Id: CREDITS,v 1.3 2008/03/29 15:28:19 blindman1344 Exp $
+
+Credits and Acknowledgements
+
+Ads for phpWebSite is copyright (C) 2006-2008 by those listed in the Developers
+section below.
+
+Developers:
+~~~~~~~~~~~
+ - Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+
+Acknowledgements for Inspiration:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ - Matthew McNaney <matt at tux dot appstate edu>
+   Some parts of this module are heavily based on the Block module which Matt
+   wrote.  Good work Matt!
