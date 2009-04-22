@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<update_information>
+  <module>
+    <title>Ads</title>
+    <changes>
+        Now use demographics module to store the business name of advertisers.
+        Removed call to help module which wasn't working anyway.
+    </changes>
+    <version>1.3.0</version>
+    <md5sum>5c0c0c2b5f9cc0b229e428c9f328ff4d</md5sum>
+    <download>http://sourceforge.net/project/showfiles.php?group_id=81360&amp;package_id=83570&amp;release_id=489312</download>
+    <dependency>
+        <module>
+            <title>core</title>
+            <properName>phpWebSite Core</properName>
+            <version>1.8.2</version>
+            <url>http://phpwebsite.appstate.edu/downloads/modules/base/</url>
+        </module>
+        <module>
+            <title>users</title>
+            <properName>Users</properName>
+            <version>2.5.0</version>
+            <url>http://phpwebsite.appstate.edu/downloads/modules/users/</url>
+        </module>
+        <module>
+            <title>demographics</title>
+            <properName>Demographics</properName>
+            <version>1.1.0</version>
+            <url>http://phpwebsite.appstate.edu/downloads/modules/demographics/</url>
+        </module>
+    </dependency>
+  </module>
+</update_information>
