@@ -1,5 +1,3 @@
--- $Id: install.sql,v 1.12 2008/08/16 20:19:12 blindman1344 Exp $
-
 CREATE TABLE ads_zones (
 id INT NOT NULL,
 key_id INT DEFAULT '0' NOT NULL,

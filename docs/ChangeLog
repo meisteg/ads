@@ -1,6 +1,7 @@
-# ChangeLog for Ads
-# $Id: ChangeLog,v 1.13 2008/08/16 23:35:00 blindman1344 Exp $
+Change Log
+===============================================================================
 
+    RFE #5: Replace references to SourceForge with GitHub.
 
 *ads-1.3.0 (16 Aug 2008)
 

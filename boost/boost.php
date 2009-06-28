@@ -1,8 +1,6 @@
 <?php
 /**
- * Ads for phpWebSite
- *
- * See docs/CREDITS for copyright information
+ * Copyright (C) 2006-2009 Gregory Meiste
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,8 +16,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author Greg Meiste <blindman1344 at users dot sourceforge dot net>
- * @version $Id: boost.php,v 1.6 2008/08/16 23:07:57 blindman1344 Exp $
+ * @package Ads
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 $proper_name  = 'Ads';
@@ -29,7 +27,7 @@ $unregister   = FALSE;
 $import_sql   = TRUE;
 $image_dir    = TRUE;
 $file_dir     = FALSE;
-$version_http = 'http://www.meiste.com/phpws_updates/ads.xml';
+$version_http = 'http://meisteg.github.com/ads/check.xml';
 $about        = TRUE;
 $priority     = 50;
 $dependency   = TRUE;

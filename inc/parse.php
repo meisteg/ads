@@ -1,8 +1,6 @@
 <?php
 /**
- * Ads for phpWebSite
- *
- * See docs/CREDITS for copyright information
+ * Copyright (C) 2006-2009 Gregory Meiste
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,8 +16,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author Greg Meiste <blindman1344 at users dot sourceforge dot net>
- * @version $Id: parse.php,v 1.2 2006/05/14 20:53:30 blindman1344 Exp $
+ * @package Ads
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 function ads_zone($zone_id)
